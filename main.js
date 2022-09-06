@@ -45,3 +45,21 @@ function ohyeah() {
   document.getElementById("audio").play();
   document.getElementById("play").textContent = "Super Mario Land Remix - SMG4's outro"
 }
+function land() {
+  window.alert("Super Mario Land");
+  document.getElementById("audio").src = "super1.mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = "Super Mario Land - song 1"
+}
+function lando() {
+  window.alert("Super Mario Land");
+  document.getElementById("audio").src = "super2.mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = "Super Mario Land - song 2"
+}
+function lands() {
+  window.alert("Super Mario Land");
+  document.getElementById("audio").src = "super3.mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = "Super Mario Land - song 3"
+}
