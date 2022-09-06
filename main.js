@@ -39,3 +39,9 @@ function memeone() {
   document.getElementById("audio").play();
   document.getElementById("play").textContent = "reese puffs mario meme 1"
 }
+function smg4() {
+  window.alert("Super Mario Land Remix");
+  document.getElementById("audio").src = "smg4.mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = "Super Mario Land Remix - SMG4's outro"
+}
