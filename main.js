@@ -33,3 +33,9 @@ function test() {
   document.getElementById("audio").play();
   document.getElementById("play").textContent = "Audio being tested..."
 }
+function memeone() {
+  window.alert("Donut Plains");
+  document.getElementById("audio").src = "meme1.mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = "Super Mario World SNES - Overworld"
+}
