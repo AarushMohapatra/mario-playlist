@@ -34,7 +34,7 @@ function test() {
   document.getElementById("play").textContent = "Audio being tested..."
 }
 function memeone() {
-  window.alert("Donut Plains");
+  window.alert("reese puffs");
   document.getElementById("audio").src = "meme1.mp3";
   document.getElementById("audio").play();
   document.getElementById("play").textContent = "reese puffs mario meme 1"
