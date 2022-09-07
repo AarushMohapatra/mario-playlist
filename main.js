@@ -7,6 +7,7 @@ function firstplay() {
 function pause() {
   window.alert("Its stopped now"); 
   document.getElementById("audio").pause();
+  document.getElementById("vid").pause();
   document.getElementById("play").textContent = "Nothing is playing right now"
 }
 function secondplay() {
