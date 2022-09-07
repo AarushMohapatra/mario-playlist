@@ -47,7 +47,7 @@ function ohyeah() {
 }
 function land() {
   window.alert("Super Mario Land");
-  document.getElementById("audio").src = "super1.mp3";
+  document.getElementById("audio").src = "super.mp3";
   document.getElementById("audio").play();
   document.getElementById("play").textContent = "Super Mario Land - song 1"
 }
