@@ -50,23 +50,23 @@ function ohyeahs() {
   window.alert("Super Mario Land Remix");
   document.getElementById("audio").src = "marios.mp3";
   document.getElementById("audio").play();
-  document.getElementById("play").textContent = "Super Mario Land Remix - SMG4's outro"
+  document.getElementById("play").textContent = "Super Mario Land Remix - Nitendo™ GameBoy"
 }
 function land() {
   window.alert("Super Mario Land");
   document.getElementById("audio").src = "super.mp3";
   document.getElementById("audio").play();
-  document.getElementById("play").textContent = "Super Mario Land - song 1"
+  document.getElementById("play").textContent = "Super Mario Land - song 1 - Nitendo™ GameBoy"
 }
 function lando() {
   window.alert("Super Mario Land");
   document.getElementById("audio").src = "super2.mp3";
   document.getElementById("audio").play();
-  document.getElementById("play").textContent = "Super Mario Land - song 2"
+  document.getElementById("play").textContent = "Super Mario Land - song 2 - Nitendo™ GameBoy"
 }
 function lands() {
   window.alert("Super Mario Land");
   document.getElementById("audio").src = "super3.mp3";
   document.getElementById("audio").play();
-  document.getElementById("play").textContent = "Super Mario Land - song 3"
+  document.getElementById("play").textContent = "Super Mario Land - song 3 - Nitendo™ GameBoy"
 }
