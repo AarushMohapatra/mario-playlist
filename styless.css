@@ -12,6 +12,14 @@ body {
   width: 30%;
   background-color: rgb(255, 64, 0);
   cursor: help;
+  animation-name: spin;
+  animation-duration: 15000ms;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear; 
+  /* transform: rotate(3deg); */
+   /* transform: rotate(0.3rad);/ */
+   /* transform: rotate(3grad); */ 
+   /* transform: rotate(.03turn);  */
 }
 img {
   width: 20%;
@@ -58,17 +66,6 @@ i {
    /* transform: rotate(.03turn);  */
 }
 #iiiiiiiiiiiiiii {
-
-  animation-name: spin;
-  animation-duration: 15000ms;
-  animation-iteration-count: infinite;
-  animation-timing-function: linear; 
-  /* transform: rotate(3deg); */
-   /* transform: rotate(0.3rad);/ */
-   /* transform: rotate(3grad); */ 
-   /* transform: rotate(.03turn);  */
-}
-div {
 
   animation-name: spin;
   animation-duration: 15000ms;
