@@ -70,3 +70,8 @@ function lands() {
   document.getElementById("audio").play();
   document.getElementById("play").textContent = "Super Mario Land - song 3 - Nitendo™ GameBoy"
 }
+function pauseses()
+{
+    window.alert("you clicked it, here is what you get:");
+    window.location = "woah.html";
+}
