@@ -85,3 +85,8 @@ function pausesesss()
     window.alert("you clicked it, here is what you get:");
     window.location = "woahing.html";
 }
+function pausesessss()
+{
+    window.alert("you clicked it, here is what you get:");
+    window.location = "woahing.html";
+}
