@@ -36,7 +36,7 @@ function test() {
 }
 function memeone() {
   window.alert("reese puffs");
-  document.getElementById("audio").src = "meme1.mp3";
+  document.getElementById("audio").src = "memeone.mp3";
   document.getElementById("audio").play();
   document.getElementById("play").textContent = "reese puffs mario meme 1"
 }
