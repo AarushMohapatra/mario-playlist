@@ -14,6 +14,7 @@ body {
   cursor: help;
 }
 img {
+  cursor: wait;
   width: 20%;
   animation-name: spin;
   animation-duration: 500ms;
@@ -25,7 +26,7 @@ img {
    /* transform: rotate(.03turn);  */
 }
 button {
-
+  cursor: wait;
   animation-name: spin;
   animation-duration: 1000ms;
   animation-iteration-count: infinite;
@@ -36,7 +37,7 @@ button {
    /* transform: rotate(.03turn);  */
 }
 span {
-
+  cursor: wait;
   animation-name: spin;
   animation-duration: 1000ms;
   animation-iteration-count: infinite;
@@ -47,7 +48,7 @@ span {
    /* transform: rotate(.03turn);  */
 }
 i {
-
+  cursor: wait;
   animation-name: spin;
   animation-duration: 1000ms;
   animation-iteration-count: infinite;
@@ -58,7 +59,7 @@ i {
    /* transform: rotate(.03turn);  */
 }
 #iiiiiiiiiiiiiii {
-
+  cursor: progress;
   animation-name: spin;
   animation-duration: 15000ms;
   animation-iteration-count: infinite;
@@ -69,7 +70,7 @@ i {
    /* transform: rotate(.03turn);  */
 }
 video {
-
+  cursor: wait;
   animation-name: spin;
   animation-duration: 10000ms;
   animation-iteration-count: infinite;
@@ -80,7 +81,7 @@ video {
    /* transform: rotate(.03turn);  */
 }
 label {
-
+  cursor: wait;
   animation-name: spin;
   animation-duration: 500ms;
   animation-iteration-count: infinite;
