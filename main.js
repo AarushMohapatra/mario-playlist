@@ -90,3 +90,7 @@ function pausesessss()
     window.alert("you clicked it, here is what you get:");
     window.location = "woahing.html";
 }
+function amongus() {
+    document.getElementById("play").textContent = "Reese Puffs Video is playing"
+}
+
