@@ -91,6 +91,7 @@ function pausesessss()
     window.location = "woahing.html";
 }
 function amongus() {
+  document.getElementById("audio").pause();
     document.getElementById("play").textContent = "Reese Puffs Video is playing"
 }
 
