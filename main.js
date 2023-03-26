@@ -100,3 +100,219 @@ function piano() {
   document.getElementById("audio").play();
   document.getElementById("play").textContent = '"popular mario songs in a piano" is playing';
 }
+function mario641() {
+  window.alert("");
+  document.getElementById("audio").src = ".mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = '"" is playing';
+}
+function mario642() {
+  window.alert("");
+  document.getElementById("audio").src = ".mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = '"" is playing';
+}
+function mario643() {
+  window.alert("");
+  document.getElementById("audio").src = ".mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = '"" is playing';
+}
+function mario644() {
+  window.alert("");
+  document.getElementById("audio").src = ".mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = '"" is playing';
+}
+function mario645() {
+  window.alert("");
+  document.getElementById("audio").src = ".mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = '"" is playing';
+}
+function mario646() {
+  window.alert("");
+  document.getElementById("audio").src = ".mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = '"" is playing';
+}
+function mario647() {
+  window.alert("");
+  document.getElementById("audio").src = ".mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = '"" is playing';
+}
+function mario648() {
+  window.alert("");
+  document.getElementById("audio").src = ".mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = '"" is playing';
+}
+function mario649() {
+  window.alert("");
+  document.getElementById("audio").src = ".mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = '"" is playing';
+}
+function mario6410() {
+  window.alert("");
+  document.getElementById("audio").src = ".mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = '"" is playing';
+}
+function mario6411() {
+  window.alert("");
+  document.getElementById("audio").src = ".mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = '"" is playing';
+}
+function mario64() {
+  window.alert("");
+  document.getElementById("audio").src = ".mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = '"" is playing';
+}
+function mario64() {
+  window.alert("");
+  document.getElementById("audio").src = ".mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = '"" is playing';
+}
+function mario64() {
+  window.alert("");
+  document.getElementById("audio").src = ".mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = '"" is playing';
+}
+function mario64() {
+  window.alert("");
+  document.getElementById("audio").src = ".mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = '"" is playing';
+}
+function mario64() {
+  window.alert("");
+  document.getElementById("audio").src = ".mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = '"" is playing';
+}
+function mario64() {
+  window.alert("");
+  document.getElementById("audio").src = ".mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = '"" is playing';
+}
+function mario64() {
+  window.alert("");
+  document.getElementById("audio").src = ".mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = '"" is playing';
+}
+function mario64() {
+  window.alert("");
+  document.getElementById("audio").src = ".mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = '"" is playing';
+}
+function mario64() {
+  window.alert("");
+  document.getElementById("audio").src = ".mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = '"" is playing';
+}
+function mario64() {
+  window.alert("");
+  document.getElementById("audio").src = ".mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = '"" is playing';
+}
+function mario64() {
+  window.alert("");
+  document.getElementById("audio").src = ".mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = '"" is playing';
+}
+function mario64() {
+  window.alert("");
+  document.getElementById("audio").src = ".mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = '"" is playing';
+}
+function mario64() {
+  window.alert("");
+  document.getElementById("audio").src = ".mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = '"" is playing';
+}
+function mario64() {
+  window.alert("");
+  document.getElementById("audio").src = ".mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = '"" is playing';
+}
+function mario64() {
+  window.alert("");
+  document.getElementById("audio").src = ".mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = '"" is playing';
+}
+function mario64() {
+  window.alert("");
+  document.getElementById("audio").src = ".mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = '"" is playing';
+}
+function mario64() {
+  window.alert("");
+  document.getElementById("audio").src = ".mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = '"" is playing';
+}
+function mario64() {
+  window.alert("");
+  document.getElementById("audio").src = ".mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = '"" is playing';
+}
+function mario64() {
+  window.alert("");
+  document.getElementById("audio").src = ".mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = '"" is playing';
+}
+function mario64() {
+  window.alert("");
+  document.getElementById("audio").src = ".mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = '"" is playing';
+}
+function mario64() {
+  window.alert("");
+  document.getElementById("audio").src = ".mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = '"" is playing';
+}
+function mario64() {
+  window.alert("");
+  document.getElementById("audio").src = ".mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = '"" is playing';
+}
+function mario64() {
+  window.alert("");
+  document.getElementById("audio").src = ".mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = '"" is playing';
+}
+function mario64() {
+  window.alert("");
+  document.getElementById("audio").src = ".mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = '"" is playing';
+}
+function mario64() {
+  window.alert("");
+  document.getElementById("audio").src = ".mp3";
+  document.getElementById("audio").play();
+  document.getElementById("play").textContent = '"" is playing';
+}
