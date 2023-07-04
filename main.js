@@ -101,8 +101,8 @@ function piano() {
   document.getElementById("play").textContent = '"popular mario songs in a piano" is playing';
 }
 function mario641() {
-  window.alert("");
-  document.getElementById("audio").src = ".mp3";
+  window.alert("It's a me mario! - SM64");
+  document.getElementById("audio").src = "01.mp3";
   document.getElementById("audio").play();
   document.getElementById("play").textContent = '"" is playing';
 }
@@ -166,151 +166,151 @@ function mario6411() {
   document.getElementById("audio").play();
   document.getElementById("play").textContent = '"" is playing';
 }
-function mario64() {
+function mario6412() {
   window.alert("");
   document.getElementById("audio").src = ".mp3";
   document.getElementById("audio").play();
   document.getElementById("play").textContent = '"" is playing';
 }
-function mario64() {
+function mario6413() {
   window.alert("");
   document.getElementById("audio").src = ".mp3";
   document.getElementById("audio").play();
   document.getElementById("play").textContent = '"" is playing';
 }
-function mario64() {
+function mario6414() {
   window.alert("");
   document.getElementById("audio").src = ".mp3";
   document.getElementById("audio").play();
   document.getElementById("play").textContent = '"" is playing';
 }
-function mario64() {
+function mario6415() {
   window.alert("");
   document.getElementById("audio").src = ".mp3";
   document.getElementById("audio").play();
   document.getElementById("play").textContent = '"" is playing';
 }
-function mario64() {
+function mario6416() {
   window.alert("");
   document.getElementById("audio").src = ".mp3";
   document.getElementById("audio").play();
   document.getElementById("play").textContent = '"" is playing';
 }
-function mario64() {
+function mario6417() {
   window.alert("");
   document.getElementById("audio").src = ".mp3";
   document.getElementById("audio").play();
   document.getElementById("play").textContent = '"" is playing';
 }
-function mario64() {
+function mario6418() {
   window.alert("");
   document.getElementById("audio").src = ".mp3";
   document.getElementById("audio").play();
   document.getElementById("play").textContent = '"" is playing';
 }
-function mario64() {
+function mario6419() {
   window.alert("");
   document.getElementById("audio").src = ".mp3";
   document.getElementById("audio").play();
   document.getElementById("play").textContent = '"" is playing';
 }
-function mario64() {
+function mario6420() {
   window.alert("");
   document.getElementById("audio").src = ".mp3";
   document.getElementById("audio").play();
   document.getElementById("play").textContent = '"" is playing';
 }
-function mario64() {
+function mario6421() {
   window.alert("");
   document.getElementById("audio").src = ".mp3";
   document.getElementById("audio").play();
   document.getElementById("play").textContent = '"" is playing';
 }
-function mario64() {
+function mario6422() {
   window.alert("");
   document.getElementById("audio").src = ".mp3";
   document.getElementById("audio").play();
   document.getElementById("play").textContent = '"" is playing';
 }
-function mario64() {
+function mario6423() {
   window.alert("");
   document.getElementById("audio").src = ".mp3";
   document.getElementById("audio").play();
   document.getElementById("play").textContent = '"" is playing';
 }
-function mario64() {
+function mario6424() {
   window.alert("");
   document.getElementById("audio").src = ".mp3";
   document.getElementById("audio").play();
   document.getElementById("play").textContent = '"" is playing';
 }
-function mario64() {
+function mario6425() {
   window.alert("");
   document.getElementById("audio").src = ".mp3";
   document.getElementById("audio").play();
   document.getElementById("play").textContent = '"" is playing';
 }
-function mario64() {
+function mario6426() {
   window.alert("");
   document.getElementById("audio").src = ".mp3";
   document.getElementById("audio").play();
   document.getElementById("play").textContent = '"" is playing';
 }
-function mario64() {
+function mario6427() {
   window.alert("");
   document.getElementById("audio").src = ".mp3";
   document.getElementById("audio").play();
   document.getElementById("play").textContent = '"" is playing';
 }
-function mario64() {
+function mario6428() {
   window.alert("");
   document.getElementById("audio").src = ".mp3";
   document.getElementById("audio").play();
   document.getElementById("play").textContent = '"" is playing';
 }
-function mario64() {
+function mario6429() {
   window.alert("");
   document.getElementById("audio").src = ".mp3";
   document.getElementById("audio").play();
   document.getElementById("play").textContent = '"" is playing';
 }
-function mario64() {
+function mario6430() {
   window.alert("");
   document.getElementById("audio").src = ".mp3";
   document.getElementById("audio").play();
   document.getElementById("play").textContent = '"" is playing';
 }
-function mario64() {
+function mario6431() {
   window.alert("");
   document.getElementById("audio").src = ".mp3";
   document.getElementById("audio").play();
   document.getElementById("play").textContent = '"" is playing';
 }
-function mario64() {
+function mario6432() {
   window.alert("");
   document.getElementById("audio").src = ".mp3";
   document.getElementById("audio").play();
   document.getElementById("play").textContent = '"" is playing';
 }
-function mario64() {
+function mario6433() {
   window.alert("");
   document.getElementById("audio").src = ".mp3";
   document.getElementById("audio").play();
   document.getElementById("play").textContent = '"" is playing';
 }
-function mario64() {
+function mario6434() {
   window.alert("");
   document.getElementById("audio").src = ".mp3";
   document.getElementById("audio").play();
   document.getElementById("play").textContent = '"" is playing';
 }
-function mario64() {
+function mario6435() {
   window.alert("");
   document.getElementById("audio").src = ".mp3";
   document.getElementById("audio").play();
   document.getElementById("play").textContent = '"" is playing';
 }
-function mario64() {
+function mario6436() {
   window.alert("");
   document.getElementById("audio").src = ".mp3";
   document.getElementById("audio").play();
